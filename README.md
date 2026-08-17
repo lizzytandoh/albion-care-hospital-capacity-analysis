@@ -21,7 +21,7 @@ This Power BI project analyses hospital capacity and operational pressures acros
 
 ### Executive Dashboard
 Provides an overview of key hospital capacity indicators and performance trends.
-![Executive Dashboard](ALBION_CARE_EXECUTIVE_DASHBOARD.png)
+[Executive Dashboard](ALBION_CARE_EXECUTIVE_DASHBOARD.png)
 
 ### Delayed Discharge Analysis
 Examines delayed discharges and their impact on hospital bed capacity.
